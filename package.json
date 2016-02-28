@@ -1,0 +1,27 @@
+{
+  "name": "ws-socket-api",
+  "version": "0.1.0",
+  "description": "Wraps a single websockets/ws socket and provides an easy api supporting on(...) and emit(...)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/max1701/ws-socket-api.git"
+  },
+  "keywords": [
+    "websockets/ws",
+    "websockets",
+    "ws",
+    "events",
+    "emit",
+    "socket"
+  ],
+  "author": "Markus Seebauer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/max1701/ws-socket-api/issues"
+  },
+  "homepage": "https://github.com/max1701/ws-socket-api"
+}
