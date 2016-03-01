@@ -2,7 +2,7 @@
   "name": "ws-socket-api",
   "version": "0.2.0-SNAPSHOT",
   "description": "Wraps a single websockets/ws socket and provides an easy api supporting on(...) and emit(...)",
-  "main": "index.js",
+  "main": "./node/index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
