@@ -1,0 +1,31 @@
+{
+  "name": "ws-socket-api",
+  "description": "Wraps a single websocket and provides an easy api supporting on(...) and emit(...)",
+  "main": "./client/main",
+  "authors": [
+    "Markus Seebauer"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "websockets/ws",
+    "websockets",
+    "ws",
+    "events",
+    "emit",
+    "socket"
+  ],
+  "homepage": "https://github.com/max1701/ws-socket-api",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node",
+    "index.js",
+    "package.json",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
