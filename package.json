@@ -1,6 +1,6 @@
 {
   "name": "ws-socket-api",
-  "version": "0.2.0-SNAPSHOT",
+  "version": "0.2.0",
   "description": "Wraps a single websockets/ws socket and provides an easy api supporting on(...) and emit(...)",
   "main": "./node/index",
   "scripts": {
